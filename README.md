@@ -13,4 +13,4 @@ We are provided with the following information:<br />
   value - the attribute's value<br />
   relevance - the average of the relevance ratings for a given id
 
-Our task is to build up a regression model, and for each id in the test set, it should predict a relevance, which is a real number in [1,3].
+The task is to build up a regression model, and for each id in the test set, it should predict a relevance, which is a real number in [1,3].
